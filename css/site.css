@@ -22,3 +22,7 @@ main>.container {
     background-size: cover;
     background-attachment: fixed;
 }
+.minHeight{
+    min-height: 80vh;
+    
+}

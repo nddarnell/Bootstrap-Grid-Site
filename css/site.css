@@ -4,6 +4,10 @@
     font-style: normal;
     color: rgb(195, 255, 0);
 }
+body> main{
+    margin-bottom: 60px;
+    margin-top:20px
+}
 main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
